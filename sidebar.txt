@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[amc:home|Door43 (amc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-amc|d43-amc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-amc/archive/master.zip|d43-amc.zip]]
+
+**Recent Changes**
+{{changes>ns = amc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/amc|Ethnologue data]]
+
